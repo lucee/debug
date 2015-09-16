@@ -1,3 +1,4 @@
 /bin
-/web
+/web/WEB-INF
+/web/test
 /server
