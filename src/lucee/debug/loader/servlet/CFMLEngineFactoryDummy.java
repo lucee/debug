@@ -12,6 +12,7 @@ import lucee.commons.io.SystemUtil;
 import lucee.commons.lang.StringUtil;
 import lucee.loader.engine.CFMLEngine;
 import lucee.loader.engine.CFMLEngineFactory;
+import lucee.loader.util.Util;
 import lucee.runtime.engine.CFMLEngineImpl;
 import lucee.runtime.osgi.OSGiUtil;
 
@@ -44,7 +45,7 @@ public final class CFMLEngineFactoryDummy extends CFMLEngineFactory {
 			t.printStackTrace();
 		}
         finally {
-        	IOUtil.closeEL(is);
+        	CFMLEngineFactory.getInstance().getIOUtil().closeSilent(is);
         }
     }
     
