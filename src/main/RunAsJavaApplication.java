@@ -34,7 +34,7 @@ import org.eclipse.jetty.webapp.WebAppContext;
  */
 public class RunAsJavaApplication {
 
-    private static final int DEFAULT_PORT = 8080;
+    private static final int DEFAULT_PORT = 8082;
 
 
     

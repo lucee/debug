@@ -21,6 +21,8 @@ public abstract class LuceeDebugServlet extends HttpServlet {
 
         super.init( config );
         engine = CFMLEngineFactoryDummy.getInstance( config );
+        
+        System.out.println("Instance created successfully : " + this.getClass().getSimpleName() );
     }
 
     /** @see javax.servlet.http.HttpServlet#service(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse) */

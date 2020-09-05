@@ -11,6 +11,7 @@ public final class RESTServlet extends LuceeDebugServlet  {
 
     @Override
     protected void service( HttpServletRequest req, HttpServletResponse rsp ) throws ServletException, IOException {
+        System.out.println("Rest Servlet received service request : " + this.getClass().getSimpleName() );
 
         engine.serviceRest( this, req, rsp );
     }
