@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="38b319fc-9649-4653-b0d8-59780457873e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Lucee Debug.eml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lucee/debug/loader/servlet/CFMLEngineFactoryDummy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lucee/debug/loader/servlet/CFMLEngineFactoryDummy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/RunAsJavaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/RunAsJavaApplication.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1h5IAxT1eyT1XLVhQsGlu5hXHms" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="RunAsJavaApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.RunAsJavaApplication" />
+      <module name="Lucee Debug" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="recording" autostart="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RunAsJavaApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38b319fc-9649-4653-b0d8-59780457873e" name="Default Changelist" comment="" />
+      <created>1599294386320</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599294386320</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="340" y="142" key="#Project_Structure" timestamp="1599296096609">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="340" y="142" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1599296096609" />
+    <state x="462" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599296255527">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="462" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1599296255527" />
+    <state x="488" y="388" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1599296076522">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="488" y="388" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1440.900@0.0.1440.900" timestamp="1599296076522" />
+    <state width="1398" height="388" key="GridCell.Tab.0.bottom" timestamp="1599296280243">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="388" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1599296280243" />
+    <state width="1398" height="388" key="GridCell.Tab.0.center" timestamp="1599296280229">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="388" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1599296280229" />
+    <state width="1398" height="388" key="GridCell.Tab.0.left" timestamp="1599296280227">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="388" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1599296280227" />
+    <state width="1398" height="388" key="GridCell.Tab.0.right" timestamp="1599296280231">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="388" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1599296280231" />
+    <state width="1398" height="494" key="GridCell.Tab.1.bottom" timestamp="1599295493047">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="494" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1599295493047" />
+    <state width="1398" height="494" key="GridCell.Tab.1.center" timestamp="1599295493045">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="494" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1599295493045" />
+    <state width="1398" height="494" key="GridCell.Tab.1.left" timestamp="1599295493043">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="494" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1599295493043" />
+    <state width="1398" height="494" key="GridCell.Tab.1.right" timestamp="1599295493046">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="494" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1599295493046" />
+    <state width="1398" height="494" key="GridCell.Tab.2.bottom" timestamp="1599295493054">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="494" key="GridCell.Tab.2.bottom/0.0.1440.900@0.0.1440.900" timestamp="1599295493054" />
+    <state width="1398" height="494" key="GridCell.Tab.2.center" timestamp="1599295493050">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="494" key="GridCell.Tab.2.center/0.0.1440.900@0.0.1440.900" timestamp="1599295493050" />
+    <state width="1398" height="494" key="GridCell.Tab.2.left" timestamp="1599295493049">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="494" key="GridCell.Tab.2.left/0.0.1440.900@0.0.1440.900" timestamp="1599295493049" />
+    <state width="1398" height="494" key="GridCell.Tab.2.right" timestamp="1599295493052">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="494" key="GridCell.Tab.2.right/0.0.1440.900@0.0.1440.900" timestamp="1599295493052" />
+    <state x="308" y="192" key="IDE.errors.dialog" timestamp="1599294868736">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="308" y="192" key="IDE.errors.dialog/0.0.1440.900@0.0.1440.900" timestamp="1599294868736" />
+    <state x="370" y="150" key="NewModule_or_Project.wizard" timestamp="1599294815551">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="370" y="150" key="NewModule_or_Project.wizard/0.0.1440.900@0.0.1440.900" timestamp="1599294815551" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lucee/debug/loader/servlet/CFMLEngineFactoryDummy.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../Lucee/loader/src/main/java/lucee/loader/engine/CFMLEngineFactory.java</url>
+          <line>127</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../Lucee/loader/src/main/java/lucee/loader/engine/CFMLEngineFactory.java</url>
+          <line>142</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../Lucee/loader/src/main/java/lucee/loader/engine/CFMLEngineFactory.java</url>
+          <line>145</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

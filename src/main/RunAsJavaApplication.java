@@ -144,7 +144,7 @@ public class RunAsJavaApplication {
         servlet = servlets.addServletWithMapping(lucee.debug.loader.servlet.LuceeServlet.class,
         		"*.lucee/*,*.luc/*,*.lucee,*.luc");
         servlet.setInitOrder(1);
-        
+
         servlet = servlets.addServletWithMapping(lucee.debug.loader.servlet.RESTServlet.class,
         		"/rest/*");
         servlet.setInitOrder(2);

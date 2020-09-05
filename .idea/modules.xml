@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lucee Debug.iml" filepath="$PROJECT_DIR$/Lucee Debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Lucee/core/core.iml" filepath="$PROJECT_DIR$/../Lucee/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Lucee/loader/loader.iml" filepath="$PROJECT_DIR$/../Lucee/loader/loader.iml" />
+    </modules>
+  </component>
+</project>

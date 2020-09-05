@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: javax.mail:activation:1.4.7.0002L">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/javax/mail/activation/1.4.7.0002L/activation-1.4.7.0002L.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/javax/mail/activation/1.4.7.0002L/activation-1.4.7.0002L-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/javax/mail/activation/1.4.7.0002L/activation-1.4.7.0002L-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

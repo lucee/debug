@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: xmpcore:xmpcore:5.1.2.0002L">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/xmpcore/xmpcore/5.1.2.0002L/xmpcore-5.1.2.0002L.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/xmpcore/xmpcore/5.1.2.0002L/xmpcore-5.1.2.0002L-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/xmpcore/xmpcore/5.1.2.0002L/xmpcore-5.1.2.0002L-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

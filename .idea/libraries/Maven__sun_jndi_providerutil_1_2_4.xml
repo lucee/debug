@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: sun.jndi:providerutil:1.2.4">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/sun/jndi/providerutil/1.2.4/providerutil-1.2.4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/sun/jndi/providerutil/1.2.4/providerutil-1.2.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/sun/jndi/providerutil/1.2.4/providerutil-1.2.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
